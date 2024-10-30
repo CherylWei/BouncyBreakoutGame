@@ -70,3 +70,7 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+## 🧑‍💻 Author
+
+- Cheryl Lin 我是雪兒 - [@Cheryl_Wei]
