@@ -1,6 +1,8 @@
 # 🎮 Bouncy Breakout Game
 
 ## 📜 Description
+![BreakoutGame](https://img.shields.io/badge/Breakout%20Game-Enhanced%20Version-blue) ![Python](https://img.shields.io/badge/Python-3.x-brightgreen)
+
 The Enhanced Breakout Game is a classic arcade game where the player controls a paddle to bounce a ball and break a configuration of bricks. The game features a scoring system, colorful bricks, and a polished graphical interface.
 
 ### Features
